@@ -2,6 +2,7 @@
   "name": "project-koch",
   "version": "0.1.0",
   "private": true,
+  "packageManager": "npm@10.8.2",
   "scripts": {
     "dev": "vite dev",
     "build": "npm run tw:build && vite build",
